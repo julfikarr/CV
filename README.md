@@ -1,2 +1,2 @@
 # CV
-Here is my CV  😂
+create a simple CV using HTML and CSS
